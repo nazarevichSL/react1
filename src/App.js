@@ -2,7 +2,6 @@ import {useEffect, useState} from "react";
 import User from "./components/User";
 
 export default function App() {
-
     let [usersList, setUsersList] = useState([]);
 
     useEffect (() => {
