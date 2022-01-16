@@ -1,0 +1,7 @@
+.item {
+    border: 2px solid slategrey;
+}
+
+.item img{
+    width: 300px;
+}
